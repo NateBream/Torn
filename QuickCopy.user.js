@@ -2,7 +2,7 @@
 // @name         Quick Copy
 // @namespace    Torn/Recruitment
 // @version      0.3
-// @downloadURL  https://github.com/NateBream/Torn/blob/main/QuickCopy.js
+// @downloadURL  https://raw.githubusercontent.com/NateBream/Torn/main/QuickCopy.user.js
 // @description  Copy all usernames and links from Advanced Search
 // @author       MisterCow
 // @match        *://www.torn.com/page.php?sid=UserList*
